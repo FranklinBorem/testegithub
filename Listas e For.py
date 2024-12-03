@@ -5,3 +5,5 @@ class Retangulo:
         self.cor = cor
         self.area = area
 meuRetangulo = Retangulo(calculaArea(4, 3), "Azul")
+
+print('olá mundo')
